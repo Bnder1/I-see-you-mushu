@@ -11,8 +11,10 @@ cd I-see-you-mushu
 ./ISeeYou.sh
 ```
 
-- Utilisez le lien en HTTPS
+- Utilisez le lien en HTTPS only (flux HTTP bloqué pour les position)
 - Modifiez le navigateur (default= firefox)
-- Installez TMUX
+- Installez XTERM
+- Modifier le template pour mener à bien votre attaque.
+- N'utilisez ce script que dans un cadre légal je ne serais en aucun cas responsable de vos actes.
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X043S09)
